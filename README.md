@@ -1,10 +1,10 @@
 # 19-Abgabe01-Schuelle-Urlacher
 
 ## ToDo
-- [ ] copy content of this git repository / zip file
-- [ ] create your own remote repository, take care about Project Layout (!)
+- [x] copy content of this git repository [title] (https://github.com/michaelulm/software-configuration-management) / zip file
+- [x] create your own remote repository, take care about Project Layout (!)
 ### ToDo Student 1
-- [ ] create Main Class with 'public static void main(String[] args)'
+- [x] create Main Class with 'public static void main(String[] args)'
 - [ ] create empty getMinimum()
 - [ ] create empty getMaximum()
 - [ ] create addValue() which add an Integer to a list for later usage in getMinimum(), getMaximum() and other Methods
@@ -28,8 +28,9 @@
 ## Final Assignment
     - don't forget to push everything (!)  
     - finish your assignment at elearning website with publishing repository url
-    ### AND final version includes
-        - runnable source code
-        - with test call methods in main Class
-        - before commit take care that you previously tested your own source code
+
+### AND final version includes
+    - runnable source code
+    - with test call methods in main Class
+    - before commit take care that you previously tested your own source code
 
