@@ -1,7 +1,7 @@
 # 19-Abgabe01-Schuelle-Urlacher
 
 ## ToDo
-- [x] copy content of this git repository [title] (https://github.com/michaelulm/software-configuration-management) / zip file
+- [x] copy content of this git repository (https://github.com/michaelulm/software-configuration-management) / zip file
 - [x] create your own remote repository, take care about Project Layout (!)
 ### ToDo Student 1
 - [x] create Main Class with 'public static void main(String[] args)'
@@ -26,11 +26,11 @@
 - [ ] if every implementation has been pushed to remote, tag final implementation with "FinalVersion"
 
 ## Final Assignment
-    - don't forget to push everything (!)  
-    - finish your assignment at elearning website with publishing repository url
+- don't forget to push everything (!)  
+- finish your assignment at elearning website with publishing repository url
 
 ### AND final version includes
-    - runnable source code
-    - with test call methods in main Class
-    - before commit take care that you previously tested your own source code
+- runnable source code
+- with test call methods in main Class
+- before commit take care that you previously tested your own source code
 
