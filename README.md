@@ -26,15 +26,10 @@
 - [ ] if every implementation has been pushed to remote, tag final implementation with "FinalVersion"
 
 ## Final Assignment
-    - don't forget to push everything (!) 
-    - **AND final version includes**
+    - don't forget to push everything (!)  
+    - finish your assignment at elearning website with publishing repository url
+    ### AND final version includes
         - runnable source code
         - with test call methods in main Class
-        - before commit take care that you previously tested your own source code 
-    - finish your assignment at elearning website with publishing repository url
+        - before commit take care that you previously tested your own source code
 
-## Basic Git commands
-	   											    <- Clone (FROM REMOTE)
-	    				<- Checkout (From LOCAL)
-	   -> (add) 		-> Commit (TO LOCAL) 		-> Push (TO REMOTE)
-	   					  		(LOCAL)			    <- Pull (FROM REMOTE)
