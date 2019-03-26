@@ -1,0 +1,15 @@
+/bin
+*.class
+*.project
+*.com
+*.exe
+
+*.iso
+*.jar
+*.zip
+*.tar
+*.iso
+
+._*
+.Spotlight-V100
+.Trashes
