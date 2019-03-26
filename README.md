@@ -1,2 +1,4 @@
 # 19-Abgabe01-Schuelle-Urlacher
-Abgabe 1
+
+## ToDo
+- [ ] copy content of this git repository / zip file
