@@ -11,7 +11,7 @@ import java.util.*;
 
 public class Main {
 	
-	public static List<Integer> list = new ArrayList<Integer>();
+	static List<Integer> list = new ArrayList<Integer>();
 
     public static void main(String[] args){
     	
@@ -23,7 +23,7 @@ public class Main {
     	
     	//Test get Maximum
     	System.out.println("Maximum: " + getMaximum());
-    	
+    	System.out.println("Sum: "+ sum());
     	
     	
 
@@ -33,14 +33,14 @@ public class Main {
     /*
      * @return Minimum from ArrayList integers
      */
-    public static int getMinimum() {
+    public static Integer getMinimum() {
     	Collections.sort(list);
     	return list.get(0);
     }
     /*
      * @return Maximum from ArrayList integers
      */
-    public static int getMaximum() {
+    public static Integer getMaximum() {
     	Collections.sort(list);
     	return list.get(list.size()-1);
     	
@@ -55,5 +55,15 @@ public class Main {
     	list.add(addInteger);
     	
     }
-
+    
+    /*
+     * @return sum of the list
+     */
+    public static Integer sum() {
+    	Integer sum =0;
+    	for(int i=0; i<list.size(); i++) {
+    		sum+= list.get(i);
+    	}
+    	return sum;
+    }
 }
