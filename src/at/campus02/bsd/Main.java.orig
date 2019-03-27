@@ -23,10 +23,17 @@ public class Main {
     	
     	//Test get Maximum
     	System.out.println("Maximum: " + getMaximum());
-
+<<<<<<< HEAD
     	
     	//Test sum
     	System.out.println("Sum: " + sum());
+    
+=======
+    	System.out.println("Sum: "+ sum());
+    	
+    	
+
+>>>>>>> 80e03f8a9e1351b7d14de39a2c0bee67c414872b
     }
     
     /*
@@ -65,5 +72,16 @@ public class Main {
     	
     	list.add(addInteger);
     	
+    }
+    
+    /*
+     * @return sum of the list
+     */
+    public static Integer sum() {
+    	Integer sum =0;
+    	for(int i=0; i<list.size(); i++) {
+    		sum+= list.get(i);
+    	}
+    	return sum;
     }
 }

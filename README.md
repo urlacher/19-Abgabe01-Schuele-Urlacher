@@ -32,9 +32,9 @@
   - [x] *publish current implementation for your colleague(s) in remote repository*
 
   ### ToDo Thomas and Denis
-  - [ ] implement a sum() which returns the sum of all Integer Values added by add()
-  - [ ] implement this method with different implementations
-  - [ ] commit your changes
+  - [x] implement a sum() which returns the sum of all Integer Values added by add()
+  - [x] implement this method with different implementations
+  - [x] commit your changes
   - [ ] if every Student has finished with commit, start to push your implementation
   - [ ] if every implementation has been pushed to remote, tag final implementation with "FinalVersion"
 
