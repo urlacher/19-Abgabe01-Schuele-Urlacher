@@ -24,11 +24,22 @@ public class Main {
     	//Test get Maximum
     	System.out.println("Maximum: " + getMaximum());
     	
-    	
-    	
-
+    	//Test sum
+    	System.out.println("Sum: " + sum());
+    
     }
     
+    /*
+     * @return sum from ArrayList integers
+     */
+    public static int sum() {
+    	int sum = 0;
+    	for (Integer integer : list) {
+			sum += integer;
+		}
+    	
+    	return sum;
+    }
     
     /*
      * @return Minimum from ArrayList integers
@@ -37,6 +48,7 @@ public class Main {
     	Collections.sort(list);
     	return list.get(0);
     }
+    
     /*
      * @return Maximum from ArrayList integers
      */
@@ -44,8 +56,7 @@ public class Main {
     	Collections.sort(list);
     	return list.get(list.size()-1);
     	
-    }
-    
+    }    
     
     /*
      * add int to ArrayList integers
