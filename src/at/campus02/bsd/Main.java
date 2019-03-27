@@ -45,8 +45,6 @@ public class Main {
      * @return Minimum from ArrayList integers
      */
     public static Integer getMinimum() {
-    	if(list == null) return null;
-    	else if(list.size()== 0) return 0 ;
     	Collections.sort(list);
     	return list.get(0);
     }
