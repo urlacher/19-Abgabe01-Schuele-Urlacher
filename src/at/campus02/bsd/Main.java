@@ -9,24 +9,42 @@ import java.util.*;
  * Last Change: <2019.03.27>
  */
 
-
-
 public class Main {
 	
 	public static List<Integer> integers = new ArrayList<Integer>();
 
     public static void main(String[] args){
+    	
+    	//Test get Minimum
+    	addValue(34);
+    	addValue(333);
+    	addValue(-5);
+    	System.out.println("Minimum: " + getMinimum());
+    	
+    	
+    	
 
     }
     
-    public static void getMinimum() {
+    
+    /*
+     * return Minimum from ArrayList integers
+     */
+    public static int getMinimum() {
+    	Collections.sort(integers);
+    	return integers.get(0);
     	
     }
     
     public static void getMaximum() {
     	
+    	
     }
     
+    
+    /*
+     * add int to ArrayList integers
+     */
     public static void addValue(int addInteger) {
     	
     	integers.add(addInteger);
