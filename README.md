@@ -35,8 +35,8 @@
   - [x] implement a sum() which returns the sum of all Integer Values added by add()
   - [x] implement this method with different implementations
   - [x] commit your changes
-  - [ ] if every Student has finished with commit, start to push your implementation
-  - [ ] if every implementation has been pushed to remote, tag final implementation with "FinalVersion"
+  - [x] if every Student has finished with commit, start to push your implementation
+  - [x] if every implementation has been pushed to remote, tag final implementation with "FinalVersion"
 
   ## Final Assignment
   - don't forget to push everything (!)  
