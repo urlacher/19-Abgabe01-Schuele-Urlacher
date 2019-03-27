@@ -18,10 +18,10 @@
 
   ### ToDo Thomas
   - [x] create Main Class with 'public static void main(String[] args)'
-  - [ ] create empty getMinimum()
-  - [ ] create empty getMaximum()
-  - [ ] create addValue() which add an Integer to a list for later usage in getMinimum(), getMaximum() and other Methods
-  - [ ] *publish current skeleton for your colleague(s) in remote repository*
+  - [x] create empty getMinimum()
+  - [x] create empty getMaximum()
+  - [x] create addValue() which add an Integer to a list for later usage in getMinimum(), getMaximum() and other Methods
+  - [x] *publish current skeleton for your colleague(s) in remote repository*
   - [ ] implement getMinimum() which returns lowest Integer
   - [ ] test your method in main()
   - [ ] *publish current implementation for your colleague(s) in remote repository*
