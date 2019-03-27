@@ -23,7 +23,6 @@ public class Main {
     	
     	//Test get Maximum
     	System.out.println("Maximum: " + getMaximum());
-
     	
     	//Test sum
     	System.out.println("Sum: " + sum());
