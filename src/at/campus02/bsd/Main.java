@@ -1,5 +1,4 @@
 package at.campus02.bsd;
-import java.util.*;
 
 /**
  * <2019.03.27 - Aufgabe 01> 

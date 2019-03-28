@@ -1,5 +1,13 @@
 package at.campus02.bsd;
 
+/**
+ * <2019.03.28 - Aufgabe 01> 
+ * Versioning
+ * 
+ * @author: <Thomas Urlacher, Denis Schülle> 
+ * Last Change: <2019.03.28>
+ */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -11,7 +19,7 @@ public class CalculatorImpl implements Calculator {
 
 	//	Constructor
 	public CalculatorImpl() {
-		intList = new ArrayList<Integer>();
+		this.intList = new ArrayList<Integer>();
 	}
 	
 	//	Methods
