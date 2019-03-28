@@ -3,13 +3,15 @@
   Project to get in contact with the Versioning System Git in combination with https://github.com/.
   The focus lay on the two Java files 
   - Calculator.java (Interface)
+  - CalculatorImpl.java
   - Main.java
   
 ## Functionality
   The Calculator.java Interface delcare 3 Methods
   - int getMaximum()
   - int getMinimun();
-  - void addValue();
+  - void addValue(int value);
+  - int sum();
   
   
 ## ToDo
