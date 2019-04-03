@@ -4,8 +4,8 @@ package at.campus02.bsd;
  * <2019.03.28 - Aufgabe 01> 
  * Versioning
  * 
- * @author: <Thomas Urlacher, Denis Schülle> 
- * Last Change: <2019.03.28>
+ * @author: <Thomas Urlacher, Denis Schuele> 
+ * Last Change: <2019.04.03>
  */
 
 import java.util.ArrayList;
