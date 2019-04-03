@@ -1,4 +1,4 @@
-# 19-Abgabe01-Schuelle-Urlacher
+# 19-Abgabe01-Schuele-Urlacher
 ## Topic
   Project to get in contact with the Versioning System Git in combination with https://github.com/.
   The focus lay on the two Java files 
