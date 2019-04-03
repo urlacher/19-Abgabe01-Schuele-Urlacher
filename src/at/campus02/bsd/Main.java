@@ -4,7 +4,7 @@ package at.campus02.bsd;
  * <2019.03.27 - Aufgabe 01> 
  * Versioning
  * 
- * @author: <Thomas Urlacher, Denis Schülle> 
+ * @author: <Thomas Urlacher, Denis Schuele> 
  * Last Change: <2019.03.28>
  */
 
